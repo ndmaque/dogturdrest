@@ -1,0 +1,21 @@
+[
+  {
+    "age": "b",
+    "size": null,
+    "rating": 2.5,
+    "location": {
+      "mocked": false,
+      "timestamp": 1526219254555,
+      "coords": {
+        "speed": 0,
+        "heading": 0,
+        "accuracy": 17.340999603271484,
+        "longitude": -1.121163,
+        "altitude": 0,
+        "latitude": 52.9522545
+      }
+    },
+    "image": null,
+    "comment": null
+  }
+]
